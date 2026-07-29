@@ -1,0 +1,220 @@
+- name: Prof. Utpal Garain
+  image: assets/img/prof_pic_color.png
+  role: Principal Investigator
+  category: pi
+  homepage: https://example.com
+
+# - name: John Doe
+#   image: assets/img/prof_pic.jpg
+#   role: PhD Scholar
+#   category: current | past | pi
+#   homepage: https://john.github.io
+#   research:
+#     - Medical Image Analysis
+#     - Vision Transformer
+#   thesis: Self-supervised Learning for Histopathology
+#   duration: 2023–Present
+
+- name: Saptarshi Saha
+  image: assets/img/students/saptarshi_saha.png
+  role: PhD Scholar
+  category: current
+  homepage: https://www.linkedin.com/in/saptarshi-saha-95871a37b/
+  research:
+    - Causality
+    - Deep Generative Models 
+    - Large (Vision) Language Models
+    - Computer Vision
+    - AI for Science
+  thesis: Towards Causal Generative Intelligence
+  duration: 2020–Present
+
+- name: Arkapal Panda
+  image: assets/img/students/arkapal_panda.png
+  role: PhD Scholar
+  category: current
+  homepage: https://sites.google.com/view/arkapalpanda
+  research:
+    - Uncertainty Quantification and Calibration of Neural Networks
+    - Statistical Learning Theory
+    - Trustworthy AI
+    - Medical Images and Disease Diagnosis
+  thesis: 
+  duration: 2023–Present
+
+- name: Aditya Shankar Pal
+  image: assets/img/students/aditya_pal.jpg
+  role: PhD Scholar
+  category: current
+  homepage: https://theimageprocessingguy.github.io/
+  research:
+    - Multimodal ML
+    - Medical Image Analysis
+    - Bioinformatics
+    - Cheminformatics
+    - Uncertainty Quantification
+  thesis: 
+  duration: 2020–Present
+
+- name: Arghyasree Saha
+  image: assets/img/students/arghyasree_saha.jpg
+  role: PhD Scholar
+  category: current
+  homepage: https://www.linkedin.com/in/arghyasree-saha-82b07422b/
+  research:
+    - Machine Learning 
+    - Computational Drug Discovery
+    - PROTACs
+    - Antimicrobial Resistance
+  thesis: 
+  duration: 2025–Present
+
+- name: Joy Mahapatra
+  image: assets/img/students/joy_mahapatra.png
+  role: PhD Scholar
+  category: current
+  homepage: https://joymahapatra.github.io
+  research:
+    - Data-to-text Generation
+    - Language Models
+  thesis: On the Faithfulness of Language Model-based Data-to-Text Generation
+  duration: 2018–Present
+
+- name: Dr. Soumadeep Saha
+  image: assets/img/students/soumadeep_saha.jpg
+  role: PhD Scholar
+  category: past
+  homepage: https://espressovi.github.io/
+  research:
+    - Deep Learning
+    - Reasoning with Large Language Models
+  thesis: <a href="https://www.isical.ac.in/~utpal/docs/SoumadeepSaha.pdf">Domain Obedient Deep Learning</a>
+  duration: 2020–2025
+
+- name: Dr. Akshay Chaturvedi
+  image: assets/img/person.jpg
+  role: PhD Scholar
+  category: past
+  homepage: https://scholar.google.com/citations?user=28DvXUAAAAAJ
+  research:
+    - Natural Language Processing
+  thesis: '<a href="https://www.isical.ac.in/~utpal/docs/AkshayChaturvedi.pdf">On Adversarial Robustness of Deep Learning Systems</a>'
+  duration: 2016-2021
+
+- name: Dr. Anabik Pal
+  image: assets/img/students/anabik_pal.png
+  role: PhD Scholar
+  category: past
+  homepage: https://iiserbpr.ac.in/people/profile/anabikpal
+  research:
+    - Medical Image Analysis
+    - Machine Learning
+  thesis: '<a href="https://www.isical.ac.in/~utpal/docs/AnabikPal.pdf">MacPso: Machine assisted analysis of Psoriatic skin</a>'
+  duration: 2013-2019
+
+- name: Dr. Abhisek Chakrabarty
+  image: assets/img/person.jpg
+  role: PhD Scholar
+  category: past
+  homepage: https://www.bits-pilani.ac.in/abhisek-chakrabarty
+  research: 
+    - Natural Language Processing
+    - Morphological Analysis
+    - Lemmatization
+  thesis: '<a href="https://www.isical.ac.in/~utpal/docs/AbhisekChakrabarty.pdf">On Lemmatization and Morphological Tagging for Highly Inflected Indic Languages</a>'
+  duration: 2012-2019
+
+- name: Dr. Apurbalal Senapati
+  image: assets/img/person.jpg
+  role: PhD Scholar
+  category: past
+  homepage: https://scholar.google.com/citations?user=0AkpBU4AAAAJ
+  research:
+    - Machine Learning
+    - Natural Language Processing
+    - Artificial Intelligence
+  thesis: '<a href="https://www.isical.ac.in/~utpal/docs/ApurbalalSenapati.pdf">Pronominal Anaphora Resolution in Bengali</a>'
+  duration: Completed May 2017
+
+- name: Dr. Biswajit Halder
+  image: assets/img/person.jpg
+  role: PhD Scholar
+  category: past
+  homepage: https://scholar.google.com/citations?user=o9SARv0AAAAJ
+  research:
+    - Document Authentication
+    - Image processing
+    - Pattern recognition
+  thesis: '<a href="https://www.isical.ac.in/~utpal/docs/BiswajitHalder.pdf">Machine assisted authentication of security paper documents</a>'
+  duration: Completed 2016
+
+- name: Dr. Anirban Mukherjee
+  image: assets/img/person.jpg
+  role: PhD Scholar
+  category: past
+  homepage: https://sites.google.com/view/anirbanmukherjeercciit/home
+  research:
+    - Digital Pedagogy
+    - Artificial Intelligence
+    - Pattern Recognition
+    - Optimization
+  thesis: '<a href="https://www.isical.ac.in/~utpal/docs/AnirbanMukherjee.pdf">Automatic Diagram Drawing based on Natural Language Text Understanding</a>'
+  duration: Completed 2014
+
+- name: Dr. Tanushyam Chattopadhyay
+  image: assets/img/person.jpg
+  role: PhD Scholar
+  category: past
+  homepage: https://in.linkedin.com/in/tanushyam-chattopadhyay-phd-in-computer-science-80291a11
+  research: 
+    - Artificial Intelligence
+    - Machine Learning
+  thesis: '<a href="https://www.isical.ac.in/~utpal/docs/Tanushyam.pdf">Some studies on Value Added Services for Connected TV</a>'
+  duration: Completed 2012
+
+- name: Neeraj Kumar Singh
+  image: assets/img/person.jpg
+  role: Research Assistant
+  category: past
+  homepage: https://in.linkedin.com/in/neeraj1909
+  research: 
+    - Machine Learning
+    - Interpretability
+
+- name: Koyel Ghosh
+  image: assets/img/person.jpg
+  role: Research Assistant
+  category: past
+  homepage: https://scholar.google.com/citations?user=HPLG0PcAAAAJ
+  research: 
+    - Hate Speech Detection
+    - Machine Learning
+    - Crowdsourcing
+
+- name: Debjyoti Paul
+  image: assets/img/person.jpg
+  role: MTech Student
+  category: past
+  homepage: https://in.linkedin.com/in/debjyoti-paul-6a41ab47
+  research: 
+    - Machine Learning
+    - Deep Learning
+
+- name: Dhruv Vansraj Rathore
+  image: assets/img/person.jpg
+  role: MTech Student
+  category: past
+  homepage: https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3
+  research: 
+    - Machine Learning
+    - Causal Inference
+  
+- name: Himanshu Raj
+  image: assets/img/person.jpg
+  role: MTech Student
+  category: past
+  homepage: https://in.linkedin.com/in/rajhimanshu001
+  research: 
+    - Machine Learning
+    -  Vision–Language Models
+

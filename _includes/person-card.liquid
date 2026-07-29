@@ -1,0 +1,19 @@
+<div class="member-card">
+
+  <img
+    class="member-photo"
+
+    src="{{ include.person.image | relative_url }}"
+    alt="{{ include.person.name }}"
+
+    data-name="{{ include.person.name }}"
+    data-role="{{ include.person.role }}"
+    data-homepage="{{ include.person.homepage }}"
+    data-image="{{ include.person.image | relative_url }}"
+    data-thesis='{{ include.person.thesis | strip }}'
+    data-duration="{{ include.person.duration }}"
+    data-research="{{ include.person.research | join:'|' }}">
+
+  <h5>{{ include.person.name }}</h5>
+
+</div>

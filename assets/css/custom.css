@@ -1,0 +1,171 @@
+/* ===========================
+   Members Grid
+=========================== */
+
+.members-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:40px;
+    justify-items:center;
+    margin-top:40px;
+}
+
+/* ===========================
+   Member Card
+=========================== */
+
+.member-card{
+    text-align:center;
+}
+
+.member-photo{
+
+    width:100px;
+    height:100px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.18);
+
+}
+
+.member-photo:hover{
+
+    transform:scale(1.08);
+
+    box-shadow:0 15px 35px rgba(0,0,0,.35);
+
+}
+
+.member-card h5{
+
+    margin-top:15px;
+
+    font-weight:600;
+
+}
+
+/* ===========================
+   Popup Background
+=========================== */
+
+.member-popup{
+
+    display:none;
+
+    position:fixed;
+
+    left:0;
+    top:0;
+
+    width:100%;
+    height:100%;
+
+    background:rgba(0,0,0,.65);
+
+    justify-content:center;
+    align-items:center;
+
+    z-index:9999;
+
+}
+
+/* ===========================
+   Popup Window
+=========================== */
+
+.popup-box{
+    background: var(--global-bg-color);
+    color: var(--global-text-color);
+    /* background:white; */
+
+    width:90%;
+    max-width:550px;
+
+    border-radius:15px;
+
+    padding:35px;
+
+    position:relative;
+
+    text-align:center;
+
+    max-height:85vh;
+
+    overflow-y:auto;
+
+}
+
+/* ===========================
+   Popup Image
+=========================== */
+
+#popupImage{
+
+    width:180px;
+    height:180px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    margin-bottom:20px;
+
+}
+
+/* ===========================
+   Close Button
+=========================== */
+
+#closePopup{
+
+    position:absolute;
+
+    right:20px;
+    top:15px;
+
+    font-size:34px;
+
+    cursor:pointer;
+
+}
+
+/* ===========================
+   Homepage Button
+=========================== */
+
+#popupHomepage{
+
+    display:inline-block;
+
+    margin:15px 0;
+
+    padding:8px 18px;
+
+    background:#0d6efd;
+
+    color:white;
+
+    border-radius:8px;
+
+    text-decoration:none;
+
+}
+
+/* ===========================
+   Research List
+=========================== */
+
+#popupResearch{
+
+    text-align:left;
+
+    display:inline-block;
+
+}
