@@ -5,7 +5,7 @@
   homepage: https://example.com
 
 # - name: John Doe
-#   image: assets/img/prof_pic.jpg
+#   image: assets/img/person.jpg
 #   role: PhD Scholar
 #   category: current | past | pi
 #   homepage: https://john.github.io
@@ -57,7 +57,7 @@
   duration: 2020–Present
 
 - name: Arghyasree Saha
-  image: assets/img/students/arghyasree_saha.jpg
+  image: assets/img/students/arghyasree_saha.jpeg
   role: PhD Scholar
   category: current
   homepage: https://www.linkedin.com/in/arghyasree-saha-82b07422b/
@@ -66,6 +66,19 @@
     - Computational Drug Discovery
     - PROTACs
     - Antimicrobial Resistance
+  thesis: 
+  duration: 2025–Present
+
+- name: Nilay Nitnaware
+  image: assets/img/students/nilay_nitnaware.jpg
+  role: PhD Scholar
+  category: current
+  homepage: https://www.linkedin.com/in/nilay-nitnaware/
+  research:
+    - Causal Inference 
+    - Causal Discovery
+    - Sequential Decision Making
+    - Causal Explainable ML
   thesis: 
   duration: 2025–Present
 
