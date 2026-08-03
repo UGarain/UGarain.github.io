@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-03'
 papers:
   4Jlqf30AAAAJ:-FonjvnnhkoC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: 'JCLMM: A finite mixture model for clustering of circular-linear data and its application to psoriatic plaque segmentation'
     year: '2017'
   4Jlqf30AAAAJ:0EnyYjriUFMC:
-    citations: 120
+    citations: 123
     title: A review of methods for automatic understanding of natural language mathematical problems
     year: '2008'
   4Jlqf30AAAAJ:0KyAp5RtaNEC:
@@ -26,7 +26,7 @@ papers:
     title: 'HCDIR: End-to-end Hate Context Detection, and Intensity Reduction model for online comments'
     year: '2023'
   4Jlqf30AAAAJ:1qzjygNMrQYC:
-    citations: 30
+    citations: 29
     title: Identification of reader specific difficult words by analyzing eye gaze and document content
     year: '2017'
   4Jlqf30AAAAJ:1sJd4Hv_s6UC:
@@ -34,7 +34,7 @@ papers:
     title: Inverse of low resolution line halftone images for document inspection
     year: '2012'
   4Jlqf30AAAAJ:1yQoGdGgb4wC:
-    citations: 34
+    citations: 35
     title: 'Pick-object-attack: Type-specific adversarial attack for object detection'
     year: '2021'
   4Jlqf30AAAAJ:2P1L_qKh6hAC:
@@ -42,11 +42,11 @@ papers:
     title: Guitar-based pronominal anaphora resolution in bengali
     year: '2013'
   4Jlqf30AAAAJ:2osOgNQ5qMEC:
-    citations: 46
+    citations: 48
     title: A corpus for OCR research on mathematical expressions
     year: '2005'
   4Jlqf30AAAAJ:35r97b3x0nAC:
-    citations: 10
+    citations: 9
     title: 'On noise abduction for answering counterfactual queries: A practical outlook'
     year: '2022'
   4Jlqf30AAAAJ:3fE2CSJIrl8C:
@@ -54,7 +54,7 @@ papers:
     title: On construction of a GeometryNet
     year: '2007'
   4Jlqf30AAAAJ:3s1wT3WcHBgC:
-    citations: 47
+    citations: 46
     title: 'Machine-assisted authentication of paper currency: an experiment on Indian banknotes'
     year: '2015'
   4Jlqf30AAAAJ:4DMP91E08xMC:
@@ -74,7 +74,7 @@ papers:
     title: On ocr of degraded documents using fuzzy multifactorial analysis
     year: '2002'
   4Jlqf30AAAAJ:4fKUyHm3Qg0C:
-    citations: 75
+    citations: 76
     title: Named entity recognition with word embeddings and wikipedia categories for a low-resource language
     year: '2017'
   4Jlqf30AAAAJ:5Ul4iDaHHb8C:
@@ -86,11 +86,11 @@ papers:
     title: A wide learning approach for interpretable feature recommendation for 1-d sensor data in iot analytics
     year: '2019'
   4Jlqf30AAAAJ:5nxA0vEk-isC:
-    citations: 10
+    citations: 9
     title: 'Improvement of OCR accuracy by similar character pair discrimination: an approach based on artificial immune system'
     year: '2006'
   4Jlqf30AAAAJ:5ugPr518TE4C:
-    citations: 99
+    citations: 94
     title: Psoriasis skin biopsy image segmentation using Deep Convolutional Neural Network
     year: '2018'
   4Jlqf30AAAAJ:738O_yMBCRsC:
@@ -106,19 +106,19 @@ papers:
     title: 'Value Added Services for Connected TV: VAS for TV with Internet'
     year: '2012'
   4Jlqf30AAAAJ:8AbLer7MMksC:
-    citations: 50
+    citations: 51
     title: Severity grading of psoriatic plaques using deep CNN based multi-task learning
     year: '2016'
   4Jlqf30AAAAJ:8k81kl-MbHgC:
-    citations: 80
+    citations: 79
     title: 'Crohme2011: Competition on recognition of online handwritten mathematical expressions'
     year: '2011'
   4Jlqf30AAAAJ:9Nmd_mFXekcC:
-    citations: 15
+    citations: 14
     title: Analyzing semantic faithfulness of language models via input intervention on question answering
     year: '2024'
   4Jlqf30AAAAJ:9ZlFYXVOiuMC:
-    citations: 38
+    citations: 35
     title: Authentication of currency notes through printing technique verification
     year: '2010'
   4Jlqf30AAAAJ:9vf0nzSNQJEC:
@@ -134,11 +134,11 @@ papers:
     title: "Capsdemm: capsule network for detection of munro\u2019s microabscess in skin biopsy images"
     year: '2018'
   4Jlqf30AAAAJ:AvfA0Oy_GE0C:
-    citations: 18
+    citations: 19
     title: Language models are crossword solvers
     year: '2025'
   4Jlqf30AAAAJ:BUYA1_V_uYcC:
-    citations: 28
+    citations: 27
     title: 'Impact of model size on fine-tuned llm performance in data-to-text generation: A state-of-the-art investigation'
     year: '2024'
   4Jlqf30AAAAJ:BqipwSGYUEgC:
@@ -162,7 +162,7 @@ papers:
     title: 'Microwave-assisted thermal profiling of blood: a potential biomarker for differentiating cancer and non-cancer states'
     year: '2026'
   4Jlqf30AAAAJ:D03iK_w7-QYC:
-    citations: 203
+    citations: 205
     title: ICFHR 2014 competition on recognition of on-line handwritten mathematical expressions (CROHME 2014)
     year: '2014'
   4Jlqf30AAAAJ:D_sINldO8mEC:
@@ -194,7 +194,7 @@ papers:
     title: 'Ignorance is bliss: Exploring defenses against invariance-based attacks on neural machine translation systems'
     year: '2021'
   4Jlqf30AAAAJ:GnPB-g6toBAC:
-    citations: 6
+    citations: 5
     title: A probabilistic framework for logo detection and localization in natural scene images
     year: '2012'
   4Jlqf30AAAAJ:HDshCWvjkbEC:
@@ -206,7 +206,7 @@ papers:
     title: An Approach for Processing Mathematical Expressions
     year: '1999'
   4Jlqf30AAAAJ:HoB7MX3m0LUC:
-    citations: 13
+    citations: 12
     title: Anaphora resolution system for bengali by pronoun emitting approach
     year: '2011'
   4Jlqf30AAAAJ:ILKRHgRFtOwC:
@@ -214,11 +214,11 @@ papers:
     title: Deep learning based recalibration of SDSS and DESI BAO alleviates Hubble and clustering tensions
     year: '2024'
   4Jlqf30AAAAJ:IWHjjKOFINEC:
-    citations: 27
+    citations: 26
     title: 'Machine reading of camera-held low quality text images: an ICA-based image enhancement approach for improving OCR accuracy'
     year: '2008'
   4Jlqf30AAAAJ:IjCSPb-OGe4C:
-    citations: 53
+    citations: 52
     title: 'Online handwritten Indian script recognition: a human motor function based framework'
     year: '2002'
   4Jlqf30AAAAJ:J-pR_7NvFogC:
@@ -235,7 +235,7 @@ papers:
     year: '2002'
   4Jlqf30AAAAJ:KUbvn5osdkgC:
     citations: 2
-    title: Copula based trainable calibration error estimator of multi-label classification with label interdependencies
+    title: Copula Based Trainable Calibration Error Estimator of Multi-Label Classification with Label Interdependencies.
     year: '2025'
   4Jlqf30AAAAJ:KlAtU1dfN6UC:
     citations: 19
@@ -243,7 +243,7 @@ papers:
     year: '2007'
   4Jlqf30AAAAJ:L7CI7m0gUJcC:
     citations: 5
-    title: An Extensive Evaluation of Factual Consistency in Large Language Models for Data-to-Text Generation
+    title: An extensive evaluation of factual consistency in large language models for data-to-text generation
     year: '2024'
   4Jlqf30AAAAJ:L8Ckcad2t8MC:
     citations: 13
@@ -258,15 +258,15 @@ papers:
     title: CAD Patient Classification Using MIMIC-II
     year: '2016'
   4Jlqf30AAAAJ:LjlpjdlvIbIC:
-    citations: 221
+    citations: 228
     title: 'ICDAR 2019 CROHME+ TFD: Competition on recognition of handwritten mathematical expressions and typeset formula detection'
     year: '2019'
   4Jlqf30AAAAJ:M05iB0D1s5AC:
-    citations: 13
+    citations: 12
     title: A probabilistic model for reconstruction of torn forensic documents
     year: '2013'
   4Jlqf30AAAAJ:M3NEmzRMIkIC:
-    citations: 57
+    citations: 58
     title: Icfhr 2012 competition on recognition of on-line mathematical expressions (crohme 2012)
     year: '2012'
   4Jlqf30AAAAJ:M3ejUd6NZC8C:
@@ -275,14 +275,14 @@ papers:
     year: '2009'
   4Jlqf30AAAAJ:M7yex6snE4oC:
     citations: 3
-    title: 'SEMI-CAVA: A Causal Variational Approach to Semi-Supervised Learning'
+    title: 'Semi-cava: a causal variational approach to semi-supervised learning'
     year: '2025'
   4Jlqf30AAAAJ:ML0RJ9NH7IQC:
     citations: 2
     title: "DOST\u2014Domain Obedient Self-supervision for Trustworthy Multi Label Classification with Noisy Labels"
     year: '2024'
   4Jlqf30AAAAJ:MLfJN-KU85MC:
-    citations: 3
+    citations: 4
     title: 'sudollm: On multi-role alignment of language models'
     year: '2025'
   4Jlqf30AAAAJ:MXK_kJrjxJIC:
@@ -310,7 +310,7 @@ papers:
     title: 'Text to diagram conversion: A method for formal representation of natural language geometry problems'
     year: '2013'
   4Jlqf30AAAAJ:OU6Ihb5iCvQC:
-    citations: 91
+    citations: 90
     title: "Advancing the state of the art for handwritten math recognition: the CROHME competitions, 2011\u20132014"
     year: '2016'
   4Jlqf30AAAAJ:PoWvk5oyLR8C:
@@ -330,7 +330,7 @@ papers:
     title: Anaphora Resolution in Bangla using global discourse knowledge
     year: '2012'
   4Jlqf30AAAAJ:RHpTSmoSYBkC:
-    citations: 29
+    citations: 28
     title: Compound character recognition by run-number-based metric distance
     year: '1998'
   4Jlqf30AAAAJ:S16KYo8Pm5AC:
@@ -366,11 +366,11 @@ papers:
     title: An Independent Component Analysis Approach for Enhancing Camera Based Low Quality Text Images
     year: '2008'
   4Jlqf30AAAAJ:Tiz5es2fbqcC:
-    citations: 202
+    citations: 197
     title: Using word embeddings for automatic query expansion
     year: '2016'
   4Jlqf30AAAAJ:Tyk-4Ss8FVUC:
-    citations: 54
+    citations: 51
     title: Recognition of handwritten indic script using clonal selection algorithm
     year: '2006'
   4Jlqf30AAAAJ:UHK10RUVsp4C:
@@ -386,11 +386,11 @@ papers:
     title: Method and system for contradiction avoided learning for multi-class multi-label classification
     year: '2024'
   4Jlqf30AAAAJ:UeHWp8X0CEIC:
-    citations: 45
+    citations: 44
     title: An approach for recognition and interpretation of mathematical expressions in printed document
-    year: '2002'
+    year: '2000'
   4Jlqf30AAAAJ:UebtZRa9Y70C:
-    citations: 39
+    citations: 40
     title: "EMERS: a tree matching\u2013based performance evaluation of mathematical expression recognition systems"
     year: '2011'
   4Jlqf30AAAAJ:Ug5p-4gJ2f0C:
@@ -398,7 +398,7 @@ papers:
     title: Divergence-Aware Selective Data-to-Text Generation with LLMs for Factual Consistency
     year: '2025'
   4Jlqf30AAAAJ:UxriW0iASnsC:
-    citations: 19
+    citations: 18
     title: Unconstrained Bengali handwriting recognition with recurrent models
     year: '2015'
   4Jlqf30AAAAJ:V3AGJWp-ZtQC:
@@ -442,7 +442,7 @@ papers:
     title: 'Machine Learning-Based Identification of Root Knot Nematodes: A Novel Paradigm in Precision Agriculture'
     year: '2025'
   4Jlqf30AAAAJ:WbkHhVStYXYC:
-    citations: 206
+    citations: 207
     title: 'ICFHR2016 CROHME: Competition on recognition of online handwritten mathematical expressions'
     year: '2016'
   4Jlqf30AAAAJ:Wp0gIr-vW9MC:
@@ -450,9 +450,9 @@ papers:
     title: 'A fast method for detection of video shot boundaries using compressed domain features of H. 264 for PVR enabled Set Top Boxes: A novel approach'
     year: '2009'
   4Jlqf30AAAAJ:WqliGbK-hY8C:
-    citations: 1
+    citations: 3
     title: Systems and methods for obtaining optimal mother wavelets for facilitating machine learning tasks
-    year: '2019'
+    year: '2022'
   4Jlqf30AAAAJ:XD-gHx7UXLsC:
     citations: 8
     title: 'Pathologist-like explanations unveiled: An explainable deep learning system for white blood cell classification'
@@ -462,7 +462,7 @@ papers:
     title: Psoriatic plaque segmentation in skin images
     year: '2015'
   4Jlqf30AAAAJ:XiVPGOgt02cC:
-    citations: 11
+    citations: 12
     title: 'Towards wide learning: Experiments in healthcare'
     year: '2016'
   4Jlqf30AAAAJ:XoXfffV-tXoC:
@@ -470,7 +470,7 @@ papers:
     title: CNN-based Knowledge Transfer between Different Families of Lightweight Block Ciphers for Cryptanalysis
     year: Unknown Year
   4Jlqf30AAAAJ:Y0pCki6q_DkC:
-    citations: 66
+    citations: 64
     title: Prototype reduction using an artificial immune model
     year: '2008'
   4Jlqf30AAAAJ:Y5dfb0dijaUC:
@@ -478,11 +478,11 @@ papers:
     title: CNN-based context sensitive lemmatization
     year: '2019'
   4Jlqf30AAAAJ:YOwf2qJgpHMC:
-    citations: 25
+    citations: 23
     title: Robust text line, word and character extraction from Telugu document image
     year: '2009'
   4Jlqf30AAAAJ:YsMSGLbcyi4C:
-    citations: 84
+    citations: 79
     title: Off-line multi-script writer identification using AR coefficients
     year: '2009'
   4Jlqf30AAAAJ:Z5m8FVwuT1cC:
@@ -491,7 +491,7 @@ papers:
     year: '2023'
   4Jlqf30AAAAJ:ZHo1McVdvXMC:
     citations: 5
-    title: Dependency Parsing In Bangla
+    title: Dependency Parsing in Bangla
     year: '2013'
   4Jlqf30AAAAJ:ZeXyd9-uunAC:
     citations: 4
@@ -502,7 +502,7 @@ papers:
     title: A deep learning framework for Anaphora resolution from social media text
     year: '2022'
   4Jlqf30AAAAJ:Zph67rFs4hoC:
-    citations: 42
+    citations: 39
     title: On automatic authenticity verification of printed security documents
     year: '2008'
   4Jlqf30AAAAJ:ZuybSZzF8UAC:
@@ -510,11 +510,11 @@ papers:
     title: Attacking VQA systems via adversarial background noise
     year: '2020'
   4Jlqf30AAAAJ:_FxGoFyzp5QC:
-    citations: 13
+    citations: 14
     title: On machine understanding of online handwritten mathematical expressions
     year: '2003'
   4Jlqf30AAAAJ:_Qo2XoVZTnwC:
-    citations: 7
+    citations: 6
     title: On Development and Evaluation of a Chunker for Bangla
     year: '2011'
   4Jlqf30AAAAJ:_kc_bZDykSQC:
@@ -542,11 +542,11 @@ papers:
     title: 'SPECK 32/64: in search of better rotation constants for neural differential distinguishers'
     year: '2025'
   4Jlqf30AAAAJ:bFI3QPDXJZMC:
-    citations: 13
+    citations: 14
     title: Analysis of fluorescent paper pulps for detecting counterfeit Indian paper money
     year: '2014'
   4Jlqf30AAAAJ:blknAaTinKkC:
-    citations: 14
+    citations: 13
     title: Color feature based approach for determining ink age in printed documents
     year: '2010'
   4Jlqf30AAAAJ:bnK-pcrLprsC:
@@ -554,11 +554,11 @@ papers:
     title: 'Hiencor: On mining of a hi-en general purpose parallel corpus from the web'
     year: '2017'
   4Jlqf30AAAAJ:cFHS6HbyZ2cC:
-    citations: 32
+    citations: 29
     title: 'Experimenting with automatic text-to-diagram conversion: A novel teaching aid for the blind people'
     year: '2014'
   4Jlqf30AAAAJ:d1gkVwhDpl0C:
-    citations: 50
+    citations: 48
     title: Automatic detection of italic, bold and all-capital words in document images
     year: '1998'
   4Jlqf30AAAAJ:dQ2og3OwTAUC:
@@ -598,7 +598,7 @@ papers:
     title: 'BeatVision: Explainable AI for Clinician-Grade Atrial Fibrillation Detection'
     year: '2025'
   4Jlqf30AAAAJ:eflP2zaiRacC:
-    citations: 8
+    citations: 7
     title: "Leveraging Statistical Transliteration for Dictionary-Based English-Bengali CLIR of OCR \u2018d Text"
     year: '2012'
   4Jlqf30AAAAJ:epqYDVWIO7EC:
@@ -622,7 +622,7 @@ papers:
     title: Attention Residual Capsule Network for Dermoscopy Image Classification
     year: '2022'
   4Jlqf30AAAAJ:fQNAKQ3IYiAC:
-    citations: 24
+    citations: 25
     title: A neural lemmatizer for bengali
     year: '2016'
   4Jlqf30AAAAJ:foquWX3nUaYC:
@@ -630,7 +630,7 @@ papers:
     title: Compound Character Recognition By Run Number Based Metric
     year: '1998'
   4Jlqf30AAAAJ:g5m5HwL7SMYC:
-    citations: 81
+    citations: 80
     title: 'Icdar 2013 crohme: Third international competition on recognition of online handwritten mathematical expressions'
     year: '2013'
   4Jlqf30AAAAJ:geHnlv5EZngC:
@@ -642,9 +642,13 @@ papers:
     title: 'Factual Inconsistency in Data-to-Text Generation Scales Exponentially with LLM Size: A Statistical Validation'
     year: '2025'
   4Jlqf30AAAAJ:hC7cP41nSMkC:
-    citations: 9
+    citations: 8
     title: Role of synthetically generated samples on speech recognition in a resource-scarce language
     year: '2010'
+  4Jlqf30AAAAJ:hCrLmN-GePgC:
+    citations: 0
+    title: CNN for Text-Based Multiple Choice Question Answering
+    year: '2018'
   4Jlqf30AAAAJ:hMod-77fHWUC:
     citations: 6
     title: 'Bangla morphological analyzer using finite automata: Isi@ fire met 2012'
@@ -698,7 +702,7 @@ papers:
     title: 'MICaps: Multi-instance capsule network for machine inspection of Munro''s microabscess'
     year: '2022'
   4Jlqf30AAAAJ:l7t_Zn2s7bgC:
-    citations: 9
+    citations: 8
     title: Cad patient classification using mimic-ii
     year: '2016'
   4Jlqf30AAAAJ:lSLTfruPkqcC:
@@ -734,7 +738,7 @@ papers:
     title: ISI-Kolkata at MTPIL-2012
     year: '2012'
   4Jlqf30AAAAJ:oNZyr7d5Mn4C:
-    citations: 1
+    citations: 2
     title: A comprehensive study on factual consistency in LLMs for data-to-text generation
     year: '2025'
   4Jlqf30AAAAJ:olpn-zPbct0C:
@@ -754,7 +758,7 @@ papers:
     title: Automatic detection of subject/object drops in bengali
     year: '2014'
   4Jlqf30AAAAJ:qUcmZB5y_30C:
-    citations: 3
+    citations: 4
     title: "Maryland at FIRE 2011: Retrieval of OCR\u2019d Bengali"
     year: '2013'
   4Jlqf30AAAAJ:qjMakFHDy7sC:
@@ -762,7 +766,7 @@ papers:
     title: "On foreground\u2014background separation in low quality document images"
     year: '2006'
   4Jlqf30AAAAJ:qxL8FJ1GzNcC:
-    citations: 14
+    citations: 12
     title: 'Mash up of breaking news and contextual web information: a novel service for connected television'
     year: '2010'
   4Jlqf30AAAAJ:r0BpntZqJG4C:
@@ -770,7 +774,7 @@ papers:
     title: Overview of the FIRE 2011 RISOT Task
     year: '2013'
   4Jlqf30AAAAJ:roLk4NBRz8UC:
-    citations: 25
+    citations: 24
     title: A multiple-classifier system for recognition of printed mathematical symbols
     year: '2004'
   4Jlqf30AAAAJ:ruyezt5ZtCIC:
@@ -778,9 +782,9 @@ papers:
     title: 'StoRM: Stochastic Region Mixup'
     year: Unknown Year
   4Jlqf30AAAAJ:t6usbXjVLHcC:
-    citations: 5
+    citations: 3
     title: DAS 2018
-    year: '2012'
+    year: Unknown Year
   4Jlqf30AAAAJ:t7zJ5fGR-2UC:
     citations: 0
     title: STATISTICAL MODELLING OF LOG-COMPRESSED NAKAGAMI DISTRIBUTED ULTRASOUND ECHO ENVELOPE
@@ -798,23 +802,23 @@ papers:
     title: On Measuring Intrinsic Causal Attributions in Deep Neural Networks
     year: '2025'
   4Jlqf30AAAAJ:u-x6o8ySG0sC:
-    citations: 129
+    citations: 131
     title: Recognition of online handwritten mathematical expressions
     year: '2004'
   4Jlqf30AAAAJ:u5HHmVD_uO8C:
-    citations: 221
+    citations: 212
     title: Segmentation of touching characters in printed Devnagari and Bangla scripts using fuzzy multifactorial analysis
-    year: '2001'
+    year: '2002'
   4Jlqf30AAAAJ:u9iWguZQMMsC:
     citations: 12
     title: Mixture model based color clustering for psoriatic plaque segmentation
     year: '2015'
   4Jlqf30AAAAJ:uJ-U7cs_P_0C:
-    citations: 6
+    citations: 7
     title: An Analysis of Transformer-based Models for Code-mixed Conversational Hate-speech Identification.
     year: '2022'
   4Jlqf30AAAAJ:uWQEDVKXjbEC:
-    citations: 30
+    citations: 31
     title: Benlem (a bengali lemmatizer) and its role in wsd
     year: '2016'
   4Jlqf30AAAAJ:uWiczbcajpAC:
@@ -827,7 +831,7 @@ papers:
     year: '2014'
   4Jlqf30AAAAJ:uc_IGeMz5qoC:
     citations: 27
-    title: 'LADDER: Revisiting the cosmic distance ladder with deep learning approaches and exploring its applications'
+    title: 'Ladder: Revisiting the cosmic distance ladder with deep learning approaches and exploring its applications'
     year: '2024'
   4Jlqf30AAAAJ:ufrVoPGSRksC:
     citations: 14
@@ -839,10 +843,10 @@ papers:
     year: '2024'
   4Jlqf30AAAAJ:vRqMK49ujn8C:
     citations: 2
-    title: Computational Forensics
+    title: "Computational Forensics: 5th International Workshop, IWCF 2012, Tsukuba, Japan, November 11, 2012 and 6th International Workshop, IWCF 2014, Stockholm, Sweden, August 24, 2014 \u2026"
     year: '2015'
   4Jlqf30AAAAJ:vbGhcppDl1QC:
-    citations: 15
+    citations: 14
     title: 'SafeSpeech: a three-module pipeline for hate intensity mitigation of social media texts in Indic languages'
     year: '2024'
   4Jlqf30AAAAJ:wbdj-CoPYUoC:
