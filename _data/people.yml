@@ -62,10 +62,9 @@
   category: current
   homepage: https://www.linkedin.com/in/arghyasree-saha-82b07422b/
   research:
-    - Machine Learning 
-    - Computational Drug Discovery
-    - PROTACs
-    - Antimicrobial Resistance
+    - Machine Learning  
+    - Multimodal Learning
+    - Vision Language Models
   thesis: 
   duration: 2025–Present
 
